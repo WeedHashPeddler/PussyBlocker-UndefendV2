@@ -1,7 +1,7 @@
 // ============================================================================
 // Pussy Blocker - Update Blocker
 //
-// Author: WeedPeddler
+// Author: WeedHashPeddler
 //
 // EDUCATIONAL WARNING
 // This project is an upgraded version of MsNightmare Undefend.
